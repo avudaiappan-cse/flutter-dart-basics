@@ -13,3 +13,6 @@ This is a repository of *30 Day Of Coding Challenge* started on March 14, 2020. 
 <img src="https://careers.dasa.ncsu.edu/wp-content/uploads/sites/85/2018/01/30DayChallenge_Thumb_2-1024x576.jpg" >
 
 <p> Follow For More Challenge </p>
+
+<h2>Dart Built-in types </h2>
+<img src="./dart-basics-11.jpg" />
