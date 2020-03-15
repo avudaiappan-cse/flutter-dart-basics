@@ -15,4 +15,4 @@ This is a repository of *30 Day Of Coding Challenge* started on March 14, 2020. 
 <p> Follow For More Challenge </p>
 
 <h2>Dart Built-in types </h2>
-<img src="./dart-basics-11.jpg" />
+<img src="./dart-data-type[1].jpg" />
