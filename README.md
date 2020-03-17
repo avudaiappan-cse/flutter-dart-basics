@@ -16,5 +16,4 @@ This is a repository of *30 Day Of Coding Challenge* started on March 14, 2020. 
 
 <h2>Dart Built-in types </h2>
 <img src="./dart-data-type[1].jpg" />
-<h2>Operators Series</h2>
-<img src="./operators_series/dart_operators_0.jpg">
+
